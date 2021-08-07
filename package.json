@@ -6,6 +6,7 @@
   "author": {
     "name": "A ReactJS developer"
   },
+  "homepage": ".",
   "license": "MIT",
   "dependencies": {
     "@coreui/chartjs": "^2.0.0",
@@ -63,6 +64,9 @@
       "!src/serviceWorker.js",
       "!src/polyfill.js"
     ]
+  },
+  "engines": {
+    "node": ">=10",
+    "npm": ">=6"
   }
-  
 }
